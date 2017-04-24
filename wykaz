@@ -1,0 +1,6 @@
+Zadanie 3.1
+Napisaæ program sprawdzaj¹cy ile razy ka¿da z par liter ( jedna litera bezpoœrednio po drugiej) 
+wystêpuje w pliku tekstowym o podanej nazwie. Jesli np. plik zawiera wyraz kokos” to para znaków 
+„ko” wystêpuje dwa razy, pary „ok.” i „os” jeden raz, a pozosta³e pary zero razy. 
+Wynik ma byæ zapisywany w pliku o nazwie „pary”.
+

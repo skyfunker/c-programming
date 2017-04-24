@@ -1,0 +1,7 @@
+Zadanie 4.1 
+Napisac program umieszczajacy w jednym pliku zawartosc kilku wskazanych plików. 
+Poczatkowe parametry uzyte w wywolaniu programu maja byc nazwami plików, 
+których zawartosc bedzie laczona. Ostatni parametr uzyty w wywolaniu ma byc 
+nazwa pliku otrzymanego po polaczeniu zawartosci. 
+
+
